@@ -22,5 +22,6 @@
 PS1="[ $(tput setaf 170)\uΣ\h$(tput setaf 46) {\W}$(tput sgr0)]>>";
 export PS1;
 
+# Some nice enviromentvariables:
 export SLOTS=/sys/devices/platform/bone_capemgr/slots
 export PINS=/sys/kernel/debug/pinctrl/44e10800.pinmux/pins

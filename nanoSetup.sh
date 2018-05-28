@@ -2,5 +2,6 @@
 #!/bin/bash
 
 echo "Setting up editor!"
+mv nanorc .nanorc
 cp .nanorc ~
 

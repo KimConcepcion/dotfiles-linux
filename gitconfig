@@ -1,0 +1,15 @@
+[user]
+	name = <name>
+	email = <git mail>
+
+[url "<git_url>"]
+	insteadOf = <acronym>:
+
+[alias]
+	co = checkout
+	br = branch
+	st = status
+	cm = commit
+	clonr = clone --recursive
+	lola = log --graph --pretty=oneline --all
+

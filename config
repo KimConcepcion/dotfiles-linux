@@ -1,0 +1,13 @@
+# Template
+Host <ip_addr>
+    Port <port_num>
+    HostName <host_name>
+    User <username>
+    IdentityFile <path_to_private_key>
+
+# Example
+Host beagle
+    Port 22
+    HostName beagle
+    User kim
+    IdentityFile ~/.ssh/id_rsa

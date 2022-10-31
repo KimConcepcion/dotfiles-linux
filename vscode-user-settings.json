@@ -1,0 +1,22 @@
+{
+    "workbench.colorTheme": "The Digital Life",
+    "workbench.iconTheme": "vscode-icons",
+    "vsicons.dontShowNewVersionMessage": true,
+    "editor.fontSize": 13,
+    "editor.fontFamily": "JetBrainsMono Nerd Font",
+    "gitlens.gitCommands.skipConfirmations": [
+        "fetch:command",
+        "stash-push:command",
+        "switch:command",
+        "push:command"
+    ],
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "kite.showWelcomeNotificationOnStartup": false,
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter.notebook.ipynb"
+    },
+    "security.workspace.trust.untrustedFiles": "open",
+    "bracketPairColorizer.depreciation-notice": false,
+    "bracket-pair-colorizer-2.depreciation-notice": false,
+    "editor.codeLensFontFamily": "JetBrainsMono Nerd Font"
+}
